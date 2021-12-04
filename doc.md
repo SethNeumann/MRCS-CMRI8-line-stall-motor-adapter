@@ -1,10 +1,3 @@
-### How to use this template:
-
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+This is part of our 8 line (byte-wide) adapters for classic CMRI boards such as the DIN/DOUT [24/32] and SMINI.  By mixing and matching you can convert the male 
+Molex (0.156) pins to screw terminal breaks in 0.100", 3.5mm, 0.156" or RJ45.  This board supports the simple "shunt" style stall motor control suggested by 
+Dr. Chubb in his CMRI User's manual  Version 3.0 on pages 3-14  and 3-15.
