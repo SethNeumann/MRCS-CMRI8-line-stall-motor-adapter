@@ -16,3 +16,5 @@ Adapter-CMRI8-line-stall-motor-adapter.GBL
 *.s#1
 *.s#2
 work files/Adapter-CMRI8-line-stall-motor-adapter.zip
+*.GBL
+*.scr
